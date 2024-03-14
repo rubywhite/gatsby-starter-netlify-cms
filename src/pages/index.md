@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: ruby white
+title: rubywhite
 image: /img/headerimage.jpg
-heading: Great coffee with a conscience
-subheading: helping people communicate with technology since 1996
+heading: helping people communicate with technology since 1996
+subheading: " "
 mainpitch:
-  title: ruby white
+  title: rubywhite
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
